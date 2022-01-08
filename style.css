@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 300px;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+p {
+    width: 400px;
+    margin: 0;
+    background-color: rgb(7, 199, 224);
+    border: 2px solid white;
+    padding: 5px;
+}
